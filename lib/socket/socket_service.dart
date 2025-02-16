@@ -4,7 +4,7 @@ import 'package:socket_io_client/socket_io_client.dart' as IO;
 
 class SocketService {
   static final _instance = SocketService._internal();
-  final _socketResponse = StreamController<int>();
+  final _socketResponse = StreamController<int>.broadcast();
   late IO.Socket _socket;
 
   SocketService._internal();
