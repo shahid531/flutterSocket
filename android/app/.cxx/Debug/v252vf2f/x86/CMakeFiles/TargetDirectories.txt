@@ -1,0 +1,2 @@
+C:/Users/shahi/AndroidStudioProjects/learn_socket/android/app/.cxx/Debug/v252vf2f/x86/CMakeFiles/edit_cache.dir
+C:/Users/shahi/AndroidStudioProjects/learn_socket/android/app/.cxx/Debug/v252vf2f/x86/CMakeFiles/rebuild_cache.dir
