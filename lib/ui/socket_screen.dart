@@ -18,7 +18,7 @@ class _SocketScreenState extends State<SocketScreen> {
 
   @override
   void initState() {
-    socketService.connect('http://192.168.0.112:3000');
+    socketService.connect('http://123456:3000');
     super.initState();
   }
 
